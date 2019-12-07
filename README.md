@@ -1,2 +1,2 @@
-# scooter_desnity_analysis
+# scooter_density_analysis
 Exploring Nashville Scooter Data
